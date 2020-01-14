@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "simplife-app",
+    "dev": "simplife-dev"
+  }
+}
